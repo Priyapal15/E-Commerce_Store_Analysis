@@ -1,57 +1,165 @@
 # Retail-Performance-Insights
 
-An interactive analytics dashboard designed to evaluate retail sales performance, customer trends, and profit distribution across multiple regions and product categories.
+End-to-End Sales Data Analysis Project
 
-This project demonstrates end-to-end data analysis including data cleaning, visualization, and business insight extraction.
+This project presents a comprehensive retail sales analysis focused on extracting business insights, customer segmentation, profit optimization, and revenue forecasting.
 
-🚀 Project Overview
+It demonstrates strong Data Analyst skills including KPI development, trend analysis, SQL-style data aggregation, and business decision support.
 
-This dashboard helps analyze:
+🚀 Project Objectives
+
+Analyze overall sales performance
+
+Identify high-value customers
+
+Optimize profit margins
+
+Evaluate product category performance
+
+Forecast revenue trends
+
+Provide data-driven business recommendations
+
+📂 Dataset Used
+
+Orders.csv
+
+Details.csv
+
+The datasets include information about:
+
+Orders
+
+Customers
+
+Categories
+
+Revenue
+
+Profit
+
+Quantity
+
+Dates
+
+📌 Key Business KPIs
 
 💰 Total Revenue
 
 📈 Total Profit
 
-📦 Quantity Sold
+📦 Total Quantity Sold
 
-🛍️ Category-wise Performance
+🧾 Average Order Value (AOV)
 
-🌍 State & City-wise Sales
+🔁 Customer Retention Rate
 
-💳 Payment Mode Distribution
+⭐ Customer Lifetime Value (CLV)
 
-📅 Monthly Profit Trends
+📊 Profit Margin by Category
 
-📌 Key Insights
+⭐ Customer Segmentation (RFM Analysis)
 
-Maharashtra leads in total revenue generation.
+Implemented RFM model to segment customers based on:
 
-Clothing category dominates sales volume.
+Recency – How recently customer purchased
 
-Cash on Delivery (COD) is the most preferred payment method.
+Frequency – Number of purchases
 
-Profit growth observed in March compared to February.
+Monetary – Total spending
 
-Printers contribute highest sub-category profit.
+This helps identify:
 
-🛠 Tools Used
+High-value customers
 
-Power BI
+Loyal customers
 
-Data Modeling
+At-risk customers
 
-DAX Calculations
+💰 Profit Optimization Analysis
 
-Data Cleaning Techniques
+Identified sub-categories with high revenue but low profit margins
 
-🎯 Objective
+Highlighted loss-making product groups
 
-To build a visually interactive dashboard that helps businesses:
+Suggested pricing and cost optimization strategies
 
-Monitor KPIs
+📈 Sales Trend & Forecasting
 
-Identify profitable regions
+Monthly sales trend analysis
 
-Track monthly performance
+Moving average forecast
 
-Understand customer purchasing behavior
+Seasonal pattern identification
+
+Supports inventory planning and sales strategy.
+
+
+🧠 Predictive Modeling
+
+Built and compared multiple models:
+
+Linear Regression
+
+Random Forest
+
+XGBoost
+
+Performed:
+
+Model comparison using MAE and R²
+
+Feature importance analysis
+
+Hyperparameter tuning
+
+SHAP explainability
+
+
+📊 SQL-Style Business Reporting
+
+Used Pandas groupby operations equivalent to SQL queries:
+
+Revenue by Category
+
+Top States by Sales
+
+Customer Order Frequency
+
+Profit Margin Analysis
+
+
+🎯 Business Recommendations
+
+Target high CLV customers with loyalty programs
+
+Re-engage customers with high recency score
+
+Review pricing of low-margin sub-categories
+
+Align inventory with seasonal sales trends
+
+Use advanced models for improved revenue forecasting
+
+
+🛠 Tools & Technologies
+
+Python
+
+Pandas
+
+NumPy
+
+Matplotlib
+
+Scikit-Learn
+
+XGBoost
+
+SHAP
+
+
+
+
+
+
