@@ -1,94 +1,57 @@
-# E-Commerce_Store_Analysis
+# Retail-Performance-Insights
 
-🛒 E-Commerce Sales Dashboard
+An interactive analytics dashboard designed to evaluate retail sales performance, customer trends, and profit distribution across multiple regions and product categories.
 
-An interactive E-Commerce Sales Dashboard built to analyze sales performance, profit trends, customer insights, and payment behavior across different states and categories.
+This project demonstrates end-to-end data analysis including data cleaning, visualization, and business insight extraction.
 
-This dashboard provides a clear visualization of key business metrics to help in data-driven decision-making.
+🚀 Project Overview
 
-🚀 Features
+This dashboard helps analyze:
 
-📌 Key Performance Indicators (KPIs)
+💰 Total Revenue
 
-Total Sales Amount
+📈 Total Profit
 
-Total Profit
+📦 Quantity Sold
 
-Total Quantity Sold
+🛍️ Category-wise Performance
 
-Average Order Value (AOV)
+🌍 State & City-wise Sales
 
-📍 State-wise Sales Analysis
-
-Sales distribution across states
-
-Comparative state performance
-
-🏙️ City-wise Order Visualization
-
-Interactive map view of order distribution
-
-💳 Payment Mode Analysis
-
-COD
-
-UPI
-
-EMI
-
-Debit Card
-
-Credit Card
-
-📦 Category & Sub-Category Insights
-
-Quantity by category
-
-Profit by sub-category
-
-👥 Customer Analysis
-
-Sales amount by customer name
+💳 Payment Mode Distribution
 
 📅 Monthly Profit Trends
 
-Month-wise profit comparison
+📌 Key Insights
 
-🛠️ Tools & Technologies Used
+Maharashtra leads in total revenue generation.
 
-Power BI / Tableau (whichever you used – update accordingly)
+Clothing category dominates sales volume.
 
-Data Visualization Techniques
+Cash on Delivery (COD) is the most preferred payment method.
 
-DAX (if Power BI)
+Profit growth observed in March compared to February.
 
-Excel / CSV Dataset
+Printers contribute highest sub-category profit.
 
-Data Cleaning & Transformation
+🛠 Tools Used
 
+Power BI
 
+Data Modeling
 
-📈 Business Insights
+DAX Calculations
 
-Maharashtra generates the highest sales revenue.
+Data Cleaning Techniques
 
-Clothing category contributes the highest quantity.
+🎯 Objective
 
-COD is the most preferred payment mode.
+To build a visually interactive dashboard that helps businesses:
 
-Profit increased from February to March.
+Monitor KPIs
 
-Printers generate the highest profit among sub-categories.
+Identify profitable regions
 
+Track monthly performance
 
-🎯 Purpose of the Project
-
-This project demonstrates:
-
-Data cleaning and transformation
-
-Dashboard design best practices
-
-Business KPI tracking
-
-Visual storytelling using data
+Understand customer purchasing behavior
